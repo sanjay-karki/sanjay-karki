@@ -6,7 +6,7 @@
 
 - 📖 Currently learning: **Advanced React (then maybe TypeScript &/or NextJs)**
 
-- 📫 How to reach me: **https://www.linkedin.com/in/sanjay-karki9/**
+- 📫 How to reach me: **[My LinkedIn](https://www.linkedin.com/in/sanjay-karki9/)**
 
 - ⚡ Hobbies & Interests: **Music Production, Anime/Manga, Basic Graphic Designing**
 <br />
