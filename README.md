@@ -4,7 +4,7 @@
 
 - 💻 I'm interested in **Frontend Development**
 
-- 📖 Currently learning: **Advanced ReactJs (then maybe TypeScript &/or NextJs)**
+- 📖 Currently learning: **Advanced React (then maybe TypeScript &/or NextJs)**
 
 - 📫 How to reach me: **[My LinkedIn](https://www.linkedin.com/in/sanjay-karki9/)**
 
