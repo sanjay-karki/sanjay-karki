@@ -2,13 +2,16 @@
 <h3 align="center">Computer Engineer | Project Manager / Digital Content Specialist</h3>
 <br />
 
-- 💻 I'm interested in **Frontend Development**
+ 💻 I'm interested in **Frontend Development**
 
-- 📖 Currently learning: **Advanced React (then maybe TypeScript &/or NextJs)**
+ 📖 Currently learning: **Advanced React (then maybe TypeScript &/or NextJs)**
 
-- 📫 How to reach me: **[My LinkedIn](https://www.linkedin.com/in/sanjay-karki9/)**
+ 🧑 Nickname: **Saanu**
 
-- ⚡ Hobbies & Interests: **Music Production, Anime/Manga, Basic Graphic Designing**
+ 📫 How to reach me: **[My LinkedIn](https://www.linkedin.com/in/sanjay-karki9/)**
+
+ ⚡ Hobbies & Interests: **Music Production, Anime/Manga, Basic Graphic Designing**
+
 <br />
 
 <h3 align="center">Languages and Tools:</h3>
