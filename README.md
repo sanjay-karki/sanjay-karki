@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | Project Manager / Digital Content Specialist</h3>
 <br />
 
- 💻 I'm interested in **Frontend Development**
+ 💻 Interested in **Frontend Development**
 
  📖 Currently learning: **Advanced React (then maybe TypeScript &/or NextJs)**
 
