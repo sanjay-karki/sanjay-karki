@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm Sanjay Karki, aka Saanu.</h1>
+<h1 align="center">Namaste 🙏, I'm Sanjay Karki</h1>
 <h3 align="center">Computer Engineer | Project Manager / Digital Content Specialist</h3>
 <br />
 
