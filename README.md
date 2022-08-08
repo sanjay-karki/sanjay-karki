@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sanjay Karki</h1>
-<h3 align="center">Computer Engineer | Project Manager / Digital Content Specialist</h3>
+<h3 align="center">Computer Engineer | Project Coordinator / Digital Content Specialist</h3>
 <br />
 
  💻 Interested in **Frontend Development**
