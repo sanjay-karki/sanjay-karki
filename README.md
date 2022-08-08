@@ -4,7 +4,7 @@
 
  💻 Interested in **Frontend Development**
 
- 📖 Currently learning: **Advanced React (then maybe TypeScript &/or NextJs)**
+ 📖 Currently learning: **Advanced React (thereafter TypeScript &/or NextJs)**
 
  🧑 Nickname: **Saanu**
 
