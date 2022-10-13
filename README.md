@@ -1,12 +1,14 @@
 <h3 align="center">Computer Engineer | Project Coordinator / Digital Content Specialist</h3>
 <br />
 
- 💻 Interested in **Frontend Development**
+ 💛 Interested in **Frontend Development**
 
  📖 Currently learning: **Advanced React (thereafter NextJs &/or TypeScript)**
 
  🧑 Nickname: **Saanu**
-
+ 
+ 💻 Portfolio Website: **[Sanjay Karki](https://sanjaykarki.netlify.app/)**
+ 
  📫 How to reach me: **[My LinkedIn](https://www.linkedin.com/in/sanjay-karki9/)**
 
  ⚡ Hobbies & Interests: **Music Production, Anime/Manga, Basic Graphic Designing**
