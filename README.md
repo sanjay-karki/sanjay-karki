@@ -1,4 +1,4 @@
-<h3 align="center">Computer Engineer | Project Coordinator / Digital Content Specialist</h3>
+<h3 align="center">Computer Engineer | Digital Content Specialist / Project Coordinator</h3>
 <br />
 
  💛 Interested in **Frontend Development**
