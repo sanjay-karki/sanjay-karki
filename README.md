@@ -3,7 +3,7 @@
 
  💛 Interested in **Frontend Development**
 
- 📖 Currently learning: **NextJs (thereafter TypeScript)**
+ 📖 Currently learning: **TypeScript (thereafter React Native)**
 
  🧑 Nickname: **Saanu**
  
