@@ -1,9 +1,9 @@
-<h3 align="center">Computer Engineer | Digital Content Specialist / Project Coordinator</h3>
+<h3 align="center">Computer Engineer | Digital Content Manager</h3>
 <br />
 
  💛 Interested in **Frontend Development**
 
- 📖 Currently learning: **Node.js (thereafter React Native)**
+ 📖 Currently learning: **Node.js & Express.js (thereafter React Native)**
 
  🧑 Nickname: **Saanu**
  
