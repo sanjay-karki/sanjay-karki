@@ -7,7 +7,7 @@
 
  🧑 Nickname: **Saanu**
  
- 💻 Portfolio Website: **[Sanjay Karki](https://sanjaykarki.netlify.app/)**
+ 💻 Portfolio Website: **[Sanjay Karki](https://sanjay-karki.com.np/)**
  
  📫 How to reach me: **[My LinkedIn](https://www.linkedin.com/in/sanjay-karki9/)**
 
