@@ -3,8 +3,6 @@
 
  💛 Interested in **Frontend Development**
 
- 📖 Currently learning: **Node.js & Express.js (thereafter React Native)**
-
  🧑 Nickname: **Saanu**
  
  💻 Portfolio Website: **[Sanjay Karki](https://sanjay-karki.com.np/)**
