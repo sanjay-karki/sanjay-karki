@@ -50,7 +50,6 @@ Building scalable frontend apps for web and mobile, with a focus on performance,
 
 - Portfolio: [sanjay-karki.com.np](https://sanjay-karki.com.np/)  
 - LinkedIn: [linkedin.com/in/sanjay-karki9](https://www.linkedin.com/in/sanjay-karki9/)  
-- GitHub: [github.com/sanjay-karki](https://github.com/sanjay-karki)  
 
 ---
 
