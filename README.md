@@ -29,7 +29,7 @@ Building scalable frontend apps for web and mobile, with a focus on performance,
 ### 🧰 Tech Stack
 
 - **Frontend:** React • Next.js • React Native • TypeScript • JavaScript • TailwindCSS • Styled Components • Redux • Zustand  
-- **Data & APIs:** REST • WebSockets • Pusher • ActionCable • Supabase • MongoDB  
+- **Data & APIs:** REST • WebSockets • Pusher • ActionCable • Supabase (PostgreSQL - basic) • MongoDB (basic)  
 - **Backend (Basic):** Node.js • Express.js  
 - **Tooling:** Git • GitHub • pnpm • Turbo • CI/CD • Vercel • Heroku • Sentry  
 - **Testing:** Jest • React Testing Library • Playwright  
